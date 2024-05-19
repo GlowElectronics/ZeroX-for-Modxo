@@ -1,0 +1,12 @@
+Partlist
+
+Part     Value          Package    Library     Position (mm)         Orientation
+
+1.6                     SJ         jumper      (29.845 7.62)         R0
+D0                      TP12SQ     testpad     (29.845 5.08)         R0
+R1       100R           R0805      rcl         (24.765 24.765)       R180
+R2       100R           R0805      rcl         (24.765 17.145)       R180
+R3       100R           R0805      rcl         (24.765 19.685)       R180
+R4       100R           R0805      rcl         (24.765 22.225)       R180
+U$1      RPI2040-WS-SMD RPI2040-WS RPI-Zero-WS (12.065 14.605)       R0
+XLPC                    2X06       pinhead     (29.845 18.415)       R90
